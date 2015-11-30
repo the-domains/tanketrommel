@@ -5,9 +5,9 @@ inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: 'Til: alle jenter som leser.  Publisert 14. februar 2013 12:06, sist redigert 20. februar 2013 09:39   Alle hjerters dag, 14. februar, vekker fram mange følelser'
-datePublished: '2015-11-30T21:06:52.834Z'
-dateModified: '2015-11-30T21:06:47.457Z'
+description: I want a girl who reads
+datePublished: '2015-11-30T21:11:38.184Z'
+dateModified: '2015-11-30T21:11:30.825Z'
 author: []
 title: 'Til: alle jenter som leser.'
 sourcePath: _posts/2015-11-30-til-alle-jenter-som-leser.md
