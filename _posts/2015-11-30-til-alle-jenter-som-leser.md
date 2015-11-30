@@ -1,13 +1,13 @@
 ---
-inFeed: false
+inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
 starred: false
 keywords: []
 description: I want a girl who reads
-datePublished: '2015-11-30T21:11:38.184Z'
-dateModified: '2015-11-30T21:11:30.825Z'
+datePublished: '2015-11-30T21:13:11.176Z'
+dateModified: '2015-11-30T21:13:08.197Z'
 author: []
 title: 'Til: alle jenter som leser.'
 sourcePath: _posts/2015-11-30-til-alle-jenter-som-leser.md
