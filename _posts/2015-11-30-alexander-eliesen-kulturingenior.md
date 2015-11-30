@@ -4,11 +4,11 @@ hasPage: false
 inNav: false
 isBasedOnUrl: 'http://alexander.eliesen.no/favorittverktoy-business-model-canvas/'
 inLanguage: null
-starred: true
+starred: false
 keywords: []
 description: 'Hei! Jeg heter Alexander, men du kan kalle meg Alex. '
-datePublished: '2015-11-30T19:46:48.901Z'
-dateModified: '2015-11-30T19:46:41.820Z'
+datePublished: '2015-11-30T20:00:18.819Z'
+dateModified: '2015-11-30T20:00:12.531Z'
 author: []
 title: 'Alexander Eliesen: Kulturingeniør'
 sourcePath: _posts/2015-11-30-alexander-eliesen-kulturingenior.md
