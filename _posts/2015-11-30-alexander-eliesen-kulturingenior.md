@@ -7,8 +7,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: 'Hei! Jeg heter Alexander, men du kan kalle meg Alex. '
-datePublished: '2015-11-30T19:34:08.729Z'
-dateModified: '2015-11-30T19:34:02.701Z'
+datePublished: '2015-11-30T19:46:48.901Z'
+dateModified: '2015-11-30T19:46:41.820Z'
 author: []
 title: 'Alexander Eliesen: Kulturingeniør'
 sourcePath: _posts/2015-11-30-alexander-eliesen-kulturingenior.md
@@ -27,4 +27,6 @@ _type: Article
 
 # Alexander Eliesen: Kulturingeniør
 
-Hei! Jeg heter Alexander, men du kan kalle meg Alex. Jeg driver med prosjektdesign, markedsføring, økonomi og ledelse for å skape gode forhold for kreative folk. Bruker dagene på Skalar og kveldene på Ubok.
+Hei! Jeg heter Alexander, men du kan kalle meg Alex. Jeg driver med prosjektdesign, markedsføring, økonomi og ledelse for å skape gode forhold for kreative folk. 
+
+Bruker dagene på Skalar og kveldene på Ubok.
