@@ -6,10 +6,10 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Til: alle jenter som leser.  Publisert 14. februar 2013 12:06, sist redigert 20. februar 2013 09:39   Alle hjerters dag, 14. februar, vekker fram mange følelser'
-datePublished: '2015-11-30T21:04:37.819Z'
-dateModified: '2015-11-30T21:04:23.893Z'
+datePublished: '2015-11-30T21:04:48.705Z'
+dateModified: '2015-11-30T21:04:45.779Z'
 author: []
-title: "\_I WANT A GIRL WHO READS"
+title: 'Til: alle jenter som leser.'
 sourcePath: _posts/2015-11-30-til-alle-jenter-som-leser.md
 published: true
 authors: []
@@ -23,7 +23,7 @@ _context: 'http://schema.org'
 _type: Article
 
 ---
-Til: alle jenter som leser.
+# Til: alle jenter som leser.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/edb82b96-16bb-4546-8dfb-0116754093e6.jpg)
 
 Alle hjerters dag, 14\. februar, vekker fram mange følelser. Både gode og dårlige. Jeg skal ikke være han som kritiserer de kjemperomantiske eller rakker ned på de ensomme. 
