@@ -1,7 +1,7 @@
 name: Tanketrommel
 favicon: null
-layout_spectrum: 0.36649
-typography_spectrum: 0.19069
+layout_spectrum: 0.47557
+typography_spectrum: 0.55779
 title: Alexanders tanketrommel
 cta:
   domain: null
@@ -17,11 +17,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#B8B42D'
-    - '#697A21'
-    - '#FFFCE8'
-    - '#3E363F'
-    - '#DD403A'
+    - '#5c6c83'
+    - '#050706'
+    - '#f3f5f2'
+    - '#c3d4e8'
+    - '#b4a48d'
   brandStrength: 0.7724712500348687
   lightness: 0.25
   saturation: 0.75
