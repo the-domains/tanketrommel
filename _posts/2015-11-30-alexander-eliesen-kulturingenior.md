@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Hei! Jeg heter Alexander, men du kan kalle meg Alex. '
-datePublished: '2015-11-30T21:08:35.432Z'
-dateModified: '2015-11-30T21:07:14.632Z'
+datePublished: '2015-11-30T21:23:58.387Z'
+dateModified: '2015-11-30T21:23:53.778Z'
 author: []
 title: 'Alexander Eliesen: Kulturingeniør'
 sourcePath: _posts/2015-11-30-alexander-eliesen-kulturingenior.md
