@@ -1,7 +1,7 @@
 name: Tanketrommel
 favicon: null
-layout_spectrum: 0.54885
-typography_spectrum: 0.19308
+layout_spectrum: 0.3939
+typography_spectrum: 0.64123
 cta:
   domain: null
   bucket: null
@@ -22,7 +22,7 @@ color:
     - '#3E363F'
     - '#DD403A'
   brandStrength: 0.7724712500348687
-  lightness: 0.22963288193568587
-  saturation: 0.2355486152227968
-  rhythmicContrast: 0.9890218637883663
+  lightness: 0.25
+  saturation: 0.75
+  rhythmicContrast: 0.5
 purpose: []
