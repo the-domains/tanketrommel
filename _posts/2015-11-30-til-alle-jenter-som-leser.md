@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: I want a girl who reads
-datePublished: '2015-11-30T22:06:13.421Z'
-dateModified: '2015-11-30T22:06:10.165Z'
+datePublished: '2015-12-01T00:05:15.878Z'
+dateModified: '2015-12-01T00:05:10.831Z'
 author: []
 title: 'Til: alle jenter som leser.'
 sourcePath: _posts/2015-11-30-til-alle-jenter-som-leser.md
@@ -23,8 +23,9 @@ _context: 'http://schema.org'
 _type: Article
 
 ---
-# Til: alle jenter som leser.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/edb82b96-16bb-4546-8dfb-0116754093e6.jpg)
+
+# Til: alle jenter som leser.
 
 Alle hjerters dag, 14\. februar, vekker fram mange følelser. Både gode og dårlige. Jeg skal ikke være han som kritiserer de kjemperomantiske eller rakker ned på de ensomme. 
 
