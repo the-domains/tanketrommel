@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: I want a girl who reads
-datePublished: '2015-12-01T00:05:15.878Z'
-dateModified: '2015-12-01T00:05:10.831Z'
+datePublished: '2015-12-01T00:20:42.940Z'
+dateModified: '2015-12-01T00:20:39.725Z'
 author: []
 title: 'Til: alle jenter som leser.'
 sourcePath: _posts/2015-11-30-til-alle-jenter-som-leser.md
