@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'I Estonia skal nå alle lære programmering i skolen. Fra første klasse. '
-datePublished: '2015-12-01T06:43:13.966Z'
-dateModified: '2015-12-01T06:43:03.353Z'
+datePublished: '2015-12-01T20:36:49.223Z'
+dateModified: '2015-12-01T20:36:44.852Z'
 author: []
 title: Førsteklasses programmering
+sourcePath: _posts/2015-12-01-forsteklasses-programmering.md
+published: true
 authors: []
 publisher:
   name: tanketrommel.tumblr.com
   domain: tanketrommel.tumblr.com
   url: null
   favicon: null
-sourcePath: _posts/2015-12-01-forsteklasses-programmering.md
-published: true
 url: forsteklasses-programmering/index.html
 _context: 'http://schema.org'
 _type: Article
