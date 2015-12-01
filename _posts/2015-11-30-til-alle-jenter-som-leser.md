@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: I want a girl who reads
-datePublished: '2015-12-01T00:20:42.940Z'
-dateModified: '2015-12-01T00:20:39.725Z'
+datePublished: '2015-12-01T06:29:03.381Z'
+dateModified: '2015-12-01T06:28:46.768Z'
 author: []
 title: 'Til: alle jenter som leser.'
 sourcePath: _posts/2015-11-30-til-alle-jenter-som-leser.md
@@ -23,9 +23,8 @@ _context: 'http://schema.org'
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/edb82b96-16bb-4546-8dfb-0116754093e6.jpg)
-
 # Til: alle jenter som leser.
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/edb82b96-16bb-4546-8dfb-0116754093e6.jpg)
 
 Alle hjerters dag, 14\. februar, vekker fram mange følelser. Både gode og dårlige. Jeg skal ikke være han som kritiserer de kjemperomantiske eller rakker ned på de ensomme. 
 
@@ -35,111 +34,111 @@ Gjennom facebook snublet jeg over diktet_"I want a girl who reads",_skrevet av M
 
 Og gutter - om noen av dere lurer på om dikt funker på jenter - så kan dere høre på hun som holder kameraet på videoen under, at det funker. 
 
-# I WANT A GIRL WHO READS
+# I want a girl who reads
 
 By Mark Grist 
-> 
-> "So, what do you go for in a girl?" 
-> 
-> He crows, lifting a lager to his lips 
-> 
-> Gestures where his mate sits 
-> 
-> Downs his glass 
-> 
-> "He prefers tits 
-> 
-> I prefer ass. 
-> 
-> What do you go for in a girl?" 
-> 
-> I don't feel comfortable 
-> 
-> The air left the room a long time ago 
-> 
-> All eyes are on me 
-> 
-> Well, if you must know 
-> 
-> I want a girl who reads 
-> 
-> Yeah. Reads. 
-> 
-> I'm not trying to call you a chauvinist 
-> 
-> Cos I know you're not alone in this 
-> 
-> but... 
-> 
-> I want a girl who reads 
-> 
-> Who needs the written word
-> & uses the added vocabulary 
-> 
-> She gleans from novels and poetry 
-> 
-> To hold lively conversation 
-> 
-> In a range of social situations 
-> 
-> I want a girl who reads 
-> 
-> Who's heart bleeds at the words of Graham Greene 
-> 
-> Or even Heat magazine 
-> 
-> Who'll tie back her hair while reading Jane Eyre 
-> 
-> and goes cover to cover with each waterstones three for two offer 
-> 
-> but I want a girl who doesn't stop there 
-> 
-> I want a girl who reads 
-> 
-> Who feeds her addiction for fiction 
-> 
-> With unusual poems and plays 
-> 
-> That she hunts out in crooked bookshops for days and days and days 
-> 
-> She'll sit addicted at breakfast, soaking up the back of the conflakes box 
-> 
-> And the information she gets from what she reads makes her a total fox 
-> 
-> Cos she's interesting & unique
-> & her theories make me go weak at the knees 
-> 
-> I want a girl who reads 
-> 
-> A girl who's eyes will analyse 
-> 
-> The menu over dinner 
-> 
-> Who'll use what she learns to kick my ass in arguments 
-> 
-> so she always ends the winner 
-> 
-> But she'll still be sweet and she'll still be flirty 
-> 
-> Cos she loves the classics and the classics are dirty 
-> 
-> So late at night she'd always have me in a stupor 
-> 
-> As she paraphrases the raunchier moments from the works of Jilly Cooper 
-> 
-> See, some guys prefer asses 
-> 
-> Some prefer tits 
-> 
-> And I'm not saying that I don't like those bits 
-> 
-> But what's more important 
-> 
-> What supercedes 
-> 
-> For me
-> Is a girl a with passion, wit and dreams 
-> 
-> So I want a girl who reads.
+
+So I want a girl who reads.
+
+For me
+Is a girl a with passion, wit and dreams 
+
+What supercedes 
+
+But what's more important 
+
+And I'm not saying that I don't like those bits 
+
+Some prefer tits 
+
+See, some guys prefer asses 
+
+As she paraphrases the raunchier moments from the works of Jilly Cooper 
+
+So late at night she'd always have me in a stupor 
+
+Cos she loves the classics and the classics are dirty 
+
+But she'll still be sweet and she'll still be flirty 
+
+so she always ends the winner 
+
+Who'll use what she learns to kick my ass in arguments 
+
+The menu over dinner 
+
+A girl who's eyes will analyse 
+
+I want a girl who reads 
+
+Cos she's interesting & unique
+& her theories make me go weak at the knees 
+
+And the information she gets from what she reads makes her a total fox 
+
+She'll sit addicted at breakfast, soaking up the back of the conflakes box 
+
+That she hunts out in crooked bookshops for days and days and days 
+
+With unusual poems and plays 
+
+Who feeds her addiction for fiction 
+
+I want a girl who reads 
+
+but I want a girl who doesn't stop there 
+
+and goes cover to cover with each waterstones three for two offer 
+
+Who'll tie back her hair while reading Jane Eyre 
+
+Or even Heat magazine 
+
+Who's heart bleeds at the words of Graham Greene 
+
+I want a girl who reads 
+
+In a range of social situations 
+
+To hold lively conversation 
+
+She gleans from novels and poetry 
+
+Who needs the written word
+& uses the added vocabulary 
+
+I want a girl who reads 
+
+but... 
+
+Cos I know you're not alone in this 
+
+I'm not trying to call you a chauvinist 
+
+Yeah. Reads. 
+
+I want a girl who reads 
+
+Well, if you must know 
+
+All eyes are on me 
+
+The air left the room a long time ago 
+
+I don't feel comfortable 
+
+What do you go for in a girl?" 
+
+I prefer ass. 
+
+"He prefers tits 
+
+Downs his glass 
+
+Gestures where his mate sits 
+
+He crows, lifting a lager to his lips 
+
+"So, what do you go for in a girl?" 
 
 Ha en fin valentin :)
